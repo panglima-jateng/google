@@ -5,6 +5,8 @@ Ini adalah script termux google search
 pkg update && pkg upgrade         
 pkg install python             
 pkg install curl               
+pkg install ruby                  
+gem install lolcat           
 pip install requests            
 pip install bs4                  
 pkg install figlet                 
